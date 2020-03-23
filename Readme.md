@@ -1,4 +1,4 @@
- New Script with changes  and
+ New Script with changes  and->
  Without login problem and Clone others frnd list
 
 1.  pkg install python2
